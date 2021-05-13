@@ -1,3 +1,4 @@
 Chapter 1
 Once upon a time, in a land far, far away. There was a Princess, who one day woke up and wanted to learn how to code. 
 She was always curious about how to make websites and dreamt she made one. 
+In order to learn how to code she knew that she needed to find Codemaster Dave and ask him to teach her. 
